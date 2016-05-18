@@ -1,0 +1,19 @@
+{
+  "name": "pegkestat",
+  "version": "1.0.0",
+  "description": "Pegke Status Twitter Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pegkeloyalty/status.git"
+  },
+  "author": "@niksmac",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pegkeloyalty/status/issues"
+  },
+  "homepage": "https://github.com/pegkeloyalty/status#readme"
+}
