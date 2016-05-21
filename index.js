@@ -11,7 +11,7 @@ var client = new Twitter({
 });
 later.date.localTime();
 var statApi = process.env.PEGKEAPI;
-var textSched = later.parse.text('every 4 sec');
+var textSched = later.parse.text('every 6 hour');
 var timer2 = later.setInterval(logTime, textSched);
 function logTime() {
   request
